@@ -1,0 +1,10 @@
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\bin\Debug\NQueens.exe.config
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\bin\Debug\NQueens.exe
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\bin\Debug\NQueens.pdb
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.csprojResolveAssemblyReference.cache
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.Form1.resources
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.Properties.Resources.resources
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.csproj.GenerateResource.Cache
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.exe
+C:\Users\osias\Documents\Visual Studio 2017\Projects\NQueens\NQueens\obj\Debug\NQueens.pdb
